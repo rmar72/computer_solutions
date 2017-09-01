@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "localename":"Sol Center",
+    "address":"70th Ave Pecos St",
+    "city": "Denver",
+    "state":"CO",
+    "zipcode":"80221",
+    "telephone": "720-777-7777"
+  },
+  {
+    "id":2,
+    "localename":"Sol Center II",
+    "address":"10th St & Federal Blvd",
+    "city": "Denver",
+    "state":"CO",
+    "zipcode":"80201",
+    "telephone": "720-777-7772"
+  }
+]

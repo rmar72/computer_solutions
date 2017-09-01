@@ -1,0 +1,14 @@
+<div class="row" ng-cloak>
+      <div class="col-lg-12">
+        <h1>Locations</h1>
+        <ul id="locationList" ng-repeat="location in locations">
+          <li><strong>{{location.localename}}</strong></li>
+          <li>{{location.address}}</li>
+          <li>{{location.city}}, {{location.state}} {{location.zipcode}}</li>
+          <li>{{location.telephone}}</li>
+        </ul>
+
+        <h2>Contact</h2>
+        <p>Please email <strong>{{email}}</strong></p>
+      </div>
+</div>

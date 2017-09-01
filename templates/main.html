@@ -1,0 +1,25 @@
+<div class="jumbotron" ng-cloak>
+  <div class="row">
+    <div class="col-md-4">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/1024px-Circle-icons-computer.svg.png" />
+    </div>
+
+    <div class="col-md-8">
+      <h1>{{header}}</h1>
+      <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas
+         eget quam. Fusce dapibus,
+        tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+         fermentum massa justo sit amet.</p>
+    </div>
+  </div>
+</div>
+
+<div class="row" ng-cloak>
+  <div class="jumbotron">
+    <div class="col-lg-8" ng-repeat="service in services">
+      <h2>{{service.name}}</h2>
+      <p>{{service.description}}</p>
+      <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+    </div>
+  </div>
+</div>

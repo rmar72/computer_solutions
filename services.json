@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repair",
+    "description":"Elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibhElit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibhElit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh",
+    "image": "http://www.centricsservices.com/assets/images/icon/diagnose-and-repair-img.png"
+  },
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "description":" Elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibhElit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibhElit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh",
+    "image": "http://kenturgentcomputerpros.com/wp-content/uploads/2016/09/virus-removal-icon.png"
+  },
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"Elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibhElit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibhElit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh",
+    "image": "http://icons.iconarchive.com/icons/blackvariant/button-ui-system-folders-drives/1024/Utilities-icon.png"
+  }
+]
